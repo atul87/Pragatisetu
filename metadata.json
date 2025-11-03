@@ -1,0 +1,8 @@
+{
+  "name": "Jharkhand Civic Connect",
+  "description": "An enterprise-grade portal for citizens of Jharkhand to report civic issues using text, voice, and images. Features AI-powered categorization, real-time tracking, multi-language support, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
